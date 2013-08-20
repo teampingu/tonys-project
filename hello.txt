@@ -1,0 +1,3 @@
+Hello everyone, this is a simple hello message on GIT!!
+
+This is a new addition to the file here
